@@ -10,7 +10,7 @@ const Download = () => {
           <p className={`${styles.pText} ${styles.blackText}`}>Get the Full Source Code</p>
 
         </div>
-        <button className={styles.btnPrimary}>Source Code</button>
+        <button className={styles.btnPrimary} link="https://github.com/RitikWeb22/nft-reactnative-app">Source Code</button>
         <div className={styles.flexCenter}>
           <img src={assets.scene} alt="download " className={styles.fullImg} />
         </div>
